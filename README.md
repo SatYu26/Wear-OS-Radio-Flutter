@@ -19,7 +19,7 @@ Flutter provides a mechanism to bidirectionally call between Dart and native pla
 While Flutter isn’t optimized for Wear devices, experimenting on Wear is possible. Flutter’s widget pattern provides an elegant means of handling Wear-specific functionality that lends itself to writing simple, understandable code.
 
 <ul>
-<li><b>View Full working video Here</b>: https://drive.google.com/file/d/12d3zknXBhMTHsPoPNWguTmV03Lavm556/view?usp=sharing</li>
+<li><b>View Full working video Here:</b> https://drive.google.com/file/d/12d3zknXBhMTHsPoPNWguTmV03Lavm556/view?usp=sharing</li>
 </ul>
 
 ## Preview
