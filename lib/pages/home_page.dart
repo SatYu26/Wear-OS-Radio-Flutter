@@ -71,6 +71,7 @@ class _HomePageState extends State<HomePage> {
     setState(() {});
   }
 
+
   _playMusic(String url) {
     _audioPlayer.play(url);
     _selectedRadio = radios.firstWhere((element) => element.url == url);
