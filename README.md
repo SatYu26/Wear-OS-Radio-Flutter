@@ -37,10 +37,9 @@ While Flutter isn’t optimized for Wear devices, experimenting on Wear is possi
 
 ## Goals
 
-<ul>
-<li>Our main objective for this tech deployment is to create a customizable and accessible standalone internet radio access for all Wear OS users, making it independent of a 2nd party device like an Android Phone.</li>
-<li>To display the flexibility & expanded features of using hybrid application development platforms such as Flutter SDK on platforms such as Android Auto, Wear OS, etc.</li>
-</ul>
+
+- Our main objective for this tech deployment is to create a customizable and accessible standalone internet radio access for all Wear OS users, making it independent of a 2nd party device like an Android Phone.
+- To display the flexibility & expanded features of using hybrid application development platforms such as Flutter SDK on platforms such as Android Auto, Wear OS, etc.
 
 ## Tech Stack
 
